@@ -7,3 +7,17 @@ body {
 h1 {
   color: #1e3a8a;
 }
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+.galeria{
+  padding: 1rem;
+  background-color: #dbeafe;
+>>>>>>> 5be5c079dd3b378e3f11356340a1102cbb50cddf
+}
+p{
+  font-size: 18px;
+  line-height:  1.6;
+  color: #333333;
+}
+>>>>>>> Stashed changes
